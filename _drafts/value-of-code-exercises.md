@@ -74,74 +74,71 @@ post - failure of imagination. ]
   gain me money if the blog post works as an ad for the book.
 - From previous draft remove: West End stuff, at least change 99B stuff if keep
   it at all.
-
-## Draft
-
-- [ ] Add stuff about spectrum of approaches to code exercises. Get the tests
+- Add stuff about spectrum of approaches to code exercises. Get the tests
   passing and move on. Refactor until you love the code and would not hesitate
   to ship it in a production app. (Often, I skip error handling, so my code,
   even when it's very well-factored, is not production ready. Hasn't considered
   security and error handling.)
-- [ ] Introduction of constraints. Can be in part 2.
+- Introduction of constraints. Can be in part 2.
 
-I've had the great good fortune to participate in Sandi Metz's POOD Course [
-link ] both as student and co-instructor. The curriculum teaches object-oriented
-programming principles and practices through a series of code exercises. Despite
-being small and easy to understand, the code exercises impart a
-disproportionately deep amount of learning (and teaching).
+## Draft
 
-Yet, when the idea of small code exercises comes up amongst developers, almost
-certainly someone will disparage them as toys and not relevant to the complex,
-large codebases they inhabit for a living.
+I've had the great good fortune to participate in [Sandi Metz's Practical
+Object-Oriented Design Course](https://www.sandimetz.com/courses/), both as
+student and co-instructor. The curriculum teaches OO principles and practices
+through a series of code exercises. Despite being small and easy to understand,
+the exercises impart a disproportionately deep amount of learning (and
+teaching).
 
-As programmers, we've come to expect complexity in our day-to-day jobs. We're
-asked to solve formidable, hairy problems, and as if that isn't difficult
-enough, it's often under unrealistic deadlines, working with code that we didn't
-write, don't like, and cannot possibly understand quickly. It's no wonder that
-developers used to these kinds of daily pressures, when sitting down to write a
-greenfield solution to an easily-grokkable problem, see no relevance to their
-day jobs. The experience feels too far removed from their daily work
-experiences. But the absence of day-to-day work pressures and constraints is
-precisely what makes working on code exercises valuable.
+When the idea of code exercises comes up amongst developers, almost certainly
+someone will disparage them as toys and not relevant to the complex, large
+codebases they inhabit for a living. We've come to expect complexity in our day
+jobs. We're asked to solve formidable, hairy problems, and as if that isn't
+difficult enough, it's often under unrealistic deadlines, working with code that
+we didn't write, don't like, and cannot possibly understand quickly. It's no
+wonder that developers accustomed to these kinds of pressures, when sitting down
+to write a greenfield solution to an easily-grokkable problem, see no relevance
+to their day-to-day work. The experience feels too far removed. But the absence
+of everyday work constraints is precisely what makes working on code exercises
+valuable.
 
 Programming is about decomposing and simplifying problems. When we work on
 problems of modest size, that we solve from scratch, we focus our efforts around
-this fundamental quality of programming. When we allow ourselves time explore
-code exercises, we exercise our intellectual curiosity, free from the pressures
-of time and free from the constraints placed upon us by building on top of code
-we neither wrote nor conceived. Free to focus on simplicity and elegance, we can
-craft solutions that follow the principles of clean code, that we know are good
-and right, but that we so often, perhaps even habitually, eschew under
-externally-imposed pressures. In other words, we are free to do our best work.
+this fundamental quality of programming. When we allow ourselves time to explore
+code exercises, we unloose our intellectual curiosity, absolved from
+deadlines and the constraints placed upon us by building on top of
+code we neither wrote nor conceived. We can double down on simplicity and
+elegance. We can craft solutions that follow the principles of clean code, that
+we know are good and right, but that we so often, perhaps even habitually,
+eschew under externally-imposed pressures. In other words, we are free to do our
+best work.
 
-Without knowing our best work, we diminish our ability to apply it to larger
-codebases and more complex problems. Much like building substantial LEGO
-structures from small bricks, our larger codebases should be collections of
-small, decoupled, reusable, flexible abstractions. They should be a collection
-of the very kinds of solutions that we come up with when tackling small
-problems.
+Without knowing our best work, we diminish our abilities when confronted with
+larger codebases and more complex problems. Much like building substantial LEGO
+structures from small bricks, our larger codebases should be small collections
+of decoupled, reusable, flexible abstractions. They should be an assemblage of
+the very kinds of solutions that we come up with when tackling small problems.
 
-But to extract full value from a code exercise, it's not enough to get the tests
+To extract full value from a code exercise, it's not enough to get the tests
 passing and move on. It requires that we exercise the freedom to experiment and
-the resolution to do our best work. It requires that we forget about the
-time-to-market sensibility that guides our for-pay work, and simply play. While
-practicing on a code exercise, when we ask ourselves, "What if?", we should feel
-free and compelled to follow our intellectual curiosities.
+resolve to do our best work. It requires that we forget about the time-to-market
+sensibility that guides our for-pay work, and simply play. While practicing on a
+code exercise, when we ask ourselves, "What if?", we should feel compelled to
+follow our intellectual curiosities.
 
 Though I've framed this approach to exercise as play, and it is, it should also
 be considered practice. The things we learn in practice are, of course, directly
-applicable to our work when the pressure is on. An elegant solution we
-discovered while experimenting with a code exercise may be a good fit for our
-next work task. [ Good point, but improve wording: Without having played with
-that elegant approach, we're likely to think of an inferior approach first, and
-under pressure, the first thing we think of is often the most practical path to
-follow. ]
+applicable to our work when the pressure is on. An elegant solution we discover
+through practice may be a good fit for our next work task. Without having
+practiced and internalized elegant approaches, we're likely to think of an
+inferior approach first, and under pressure, the first thing we think of is
+often the most practical path to follow.
 
-A spirit of curiosity and inquiry likely attracted us to programming in the
-first place.  Honor it by diving deep, pushing the boundaries of your knowledge,
-and trying new approaches. A commitment to spending time on exploration and
-practice is one of the the highest-yield investments one can make in improving
-programming skills.
+Many of us were attracted to programming in the first place by a spirit of
+curiosity and inquiry. Honor that spirit by pushing the boundaries of your
+knowledge, by diving deep into simplicity, by trying new approaches. A
+commitment to spending time on exploration and practice is one of the the
+highest-yield investments we can make in advancing our programming skills.
 
 In the next article in this series, I'll put my money where my mouth is and walk
 through a thoroughly decomposed solution to a well-known but sneakily complex
