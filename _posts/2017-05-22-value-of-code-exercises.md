@@ -4,6 +4,8 @@ title:  "The Value of Code Exercises"
 date:   2017-05-22
 ---
 
+*This article is the first in a [series](/series) on code exercises.*
+
 I've had the great good fortune to participate in [Sandi Metz's Practical
 Object-Oriented Design Course](https://www.sandimetz.com/courses/), both as
 student and co-instructor. The curriculum teaches OO principles and practices
@@ -22,6 +24,8 @@ to write a greenfield solution to an easily-grokkable problem, see no relevance
 to their day-to-day work. The experience feels too far removed. But the absence
 of everyday work constraints is precisely what makes working on code exercises
 valuable.
+
+## Our best work
 
 Programming is about decomposing and simplifying problems. When we work on
 problems of modest size, that we solve from scratch, we focus our efforts around
@@ -47,6 +51,8 @@ sensibility that guides our for-pay work, and simply play. While practicing on a
 code exercise, when we ask ourselves, "What if?", we should feel compelled to
 follow our intellectual curiosities.
 
+## Practice is play
+
 Though I've framed this approach to exercise as play, and it is, it should also
 be considered practice. The things we learn in practice are, of course, directly
 applicable to our work when the pressure is on. An elegant solution we discover
@@ -61,6 +67,6 @@ knowledge, by diving deep into simplicity, by trying new approaches. A
 commitment to spending time on exploration and practice is one of the the
 highest-yield investments we can make in advancing our programming skills.
 
-In the next article in this series, I'll put my money where my mouth is and walk
-through a thoroughly decomposed solution to a well-known but sneakily complex
-code exercise.
+In the next article in this [series](/series), I'll put my money where my mouth
+is and walk through a thoroughly decomposed solution to a well-known but
+sneakily complex code exercise.
