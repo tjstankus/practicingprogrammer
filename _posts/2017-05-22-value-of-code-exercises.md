@@ -8,35 +8,33 @@ date:   2017-05-22
 
 I've had the great good fortune to participate in [Sandi Metz's Practical
 Object-Oriented Design Course](https://www.sandimetz.com/courses/), both as
-student and co-instructor. The curriculum teaches OO principles and practices
-through a series of code exercises. Despite being small and easy to understand,
-the exercises impart a disproportionately deep amount of learning (and
-teaching).
+student and co-instructor. The curriculum teaches OO principles through a series
+of code exercises. Despite being easy to understand, the exercises impart a
+disproportionately deep amount of learning (and teaching).
 
 When the idea of code exercises comes up amongst developers, almost certainly
-someone will disparage them as toys and not relevant to the complex, large
-codebases they inhabit for a living. We've come to expect complexity in our day
-jobs. We're asked to solve formidable, hairy problems, and as if that isn't
-difficult enough, it's often under unrealistic deadlines, working with code that
-we didn't write, don't like, and cannot possibly understand quickly. It's no
-wonder that developers accustomed to these kinds of pressures, when sitting down
-to write a greenfield solution to an easily-grokkable problem, see no relevance
-to their day-to-day work. The experience feels too far removed. But the absence
-of everyday work constraints is precisely what makes working on code exercises
+some will disparage them as toys, dissociated from the complex, large codebases
+they inhabit for a living. We've come to expect complexity in our day jobs.
+We're asked to solve formidable problems, and as if that isn't difficult enough,
+we're asked to do it under unrealistic deadlines, working with code that we
+didn't write, don't like, and cannot possibly understand quickly. It's no wonder
+that developers accustomed to these kinds of pressures, when sitting down to
+write a greenfield solution to a simple problem, see no relevance to their
+day-to-day work. The experience feels too far removed. But the absence of
+everyday work constraints is precisely what makes working on code exercises
 valuable.
 
 ## Our best work
 
 Programming is about decomposing and simplifying problems. When we work on
 problems of modest size, that we solve from scratch, we focus our efforts around
-this fundamental quality of programming. When we allow ourselves time to explore
-code exercises, we unloose our intellectual curiosity, absolved from
-deadlines and the constraints placed upon us by building on top of
-code we neither wrote nor conceived. We can double down on simplicity and
-elegance. We can craft solutions that follow the principles of clean code, that
-we know are good and right, but that we so often, perhaps even habitually,
-eschew under externally-imposed pressures. In other words, we are free to do our
-best work.
+this fundamental quality of programming. When we allow ourselves time to
+explore, we unloose our intellectual curiosity, absolved from deadlines and the
+constraints placed upon us by building on top of code we neither wrote nor
+conceived. We can double down on simplicity and elegance. We can craft solutions
+that follow the principles of clean code, that we know are good and right, but
+that we so often, perhaps even habitually, eschew under externally-imposed
+pressures. We are free to do our best work.
 
 Without knowing our best work, we diminish our abilities when confronted with
 larger codebases and more complex problems. Much like building substantial LEGO
@@ -61,10 +59,10 @@ practiced and internalized elegant approaches, we're likely to think of an
 inferior approach first, and under pressure, the first thing we think of is
 often the most practical path to follow.
 
-Many of us were attracted to programming in the first place by a spirit of
+Many of us were originally enthralled by programming through a spirit of
 curiosity and inquiry. Honor that spirit by pushing the boundaries of your
-knowledge, by diving deep into simplicity, by trying new approaches. A
-commitment to spending time on exploration and practice is one of the the
+knowledge, by diving deep into simplicity, by trying wild and new approaches. A
+commitment to spending time on exploration and practice is one of the 
 highest-yield investments we can make in advancing our programming skills.
 
 In the next article in this [series](/series), I'll put my money where my mouth
